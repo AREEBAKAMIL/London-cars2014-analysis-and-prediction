@@ -5,31 +5,17 @@ This repository is about analysing and predicting car prices based on the London
 # About the dataset
 The "cars for sale" was collected in Summer 2014 from the website Autotrader.com. The data set consists of 11 columns and 1080 rows as described below:
 
-Data columns (total 11 columns):
- i   Column        Non-Null Count  Dtype 
----  ------        --------------  ----- 
- 0   Make          9080 non-null   object
----  ------        --------------  ----- 
- 1   Model         9080 non-null   object
----  ------        --------------  ----- 
- 2   Year          9080 non-null   int64 
----  ------        --------------  ----- 
- 3   Mileage       9080 non-null   int64 
----  ------        --------------  ----- 
- 4   Price         9080 non-null   int64 
----  ------        --------------  ----- 
- 5   Body Style    9080 non-null   object
----  ------        --------------  ----- 
- 6   Ex Color      9080 non-null   object
----  ------        --------------  ----- 
- 7   In Color      9080 non-null   object
----  ------        --------------  ----- 
- 8   Engine        9080 non-null   object
----  ------        --------------  ----- 
- 9   Transmission  9080 non-null   object
----  ------        --------------  ----- 
- 10  Doors         9080 non-null   int64 
----  ------        --------------  ----- 
+ 1. Make
+ 2. Model
+ 3. Year
+ 4. Mileage
+ 5. Price
+ 6. Body Style
+ 7. Ex Color 
+ 8. In Color
+ 9. Engine
+ 10. Transmission
+ 11. Doors
 
  The column names are pretty self-explanatory.
 
