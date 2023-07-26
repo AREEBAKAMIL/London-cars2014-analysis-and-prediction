@@ -7,7 +7,7 @@ The "cars for sale" was collected in Summer 2014 from the website Autotrader.com
 
 Data columns (total 11 columns):
  i   Column        Non-Null Count  Dtype 
-:---  :------:        :--------------:  ---:
+---  ------        --------------  ----- 
  0   Make          9080 non-null   object
 ---  ------        --------------  ----- 
  1   Model         9080 non-null   object
@@ -29,6 +29,7 @@ Data columns (total 11 columns):
  9   Transmission  9080 non-null   object
 ---  ------        --------------  ----- 
  10  Doors         9080 non-null   int64 
+---  ------        --------------  ----- 
 
  The column names are pretty self-explanatory.
 
