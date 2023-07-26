@@ -9,15 +9,25 @@ Data columns (total 11 columns):
  i   Column        Non-Null Count  Dtype 
 ---  ------        --------------  ----- 
  0   Make          9080 non-null   object
+ ---  ------        --------------  ----- 
  1   Model         9080 non-null   object
+ ---  ------        --------------  ----- 
  2   Year          9080 non-null   int64 
+ ---  ------        --------------  ----- 
  3   Mileage       9080 non-null   int64 
+ ---  ------        --------------  ----- 
  4   Price         9080 non-null   int64 
+ ---  ------        --------------  ----- 
  5   Body Style    9080 non-null   object
+ ---  ------        --------------  ----- 
  6   Ex Color      9080 non-null   object
+ ---  ------        --------------  ----- 
  7   In Color      9080 non-null   object
+ ---  ------        --------------  ----- 
  8   Engine        9080 non-null   object
+  ---  ------        --------------  ----- 
  9   Transmission  9080 non-null   object
+  ---  ------        --------------  ----- 
  10  Doors         9080 non-null   int64 
 
  The column names are pretty self-explanatory.
